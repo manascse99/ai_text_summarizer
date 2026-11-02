@@ -1,0 +1,17 @@
+{
+  "note": "Demonstration samples written for this project. NOT a benchmark dataset.",
+  "samples": [
+    {
+      "article": "Solar power capacity has grown rapidly over the past decade as panel prices fell by more than 80 percent. Many countries now install more solar capacity each year than any other source of electricity. However, solar output varies with weather and time of day, so grids need batteries or other backup to stay reliable. Researchers are working on cheaper storage and smarter grid software to handle this variability.",
+      "summary": "Solar capacity has surged because panels became much cheaper, but its variable output means grids need better storage and smarter software."
+    },
+    {
+      "article": "The city council voted on Tuesday to expand the bus network with five new routes connecting suburban neighbourhoods to the downtown core. Officials said the plan should cut average commute times by about ten minutes. The project will cost 40 million dollars and will be paid for partly by a federal transport grant. Construction is expected to begin next spring, with the first routes opening within two years.",
+      "summary": "The city council approved five new bus routes costing 40 million dollars to shorten commutes, with construction starting next spring."
+    },
+    {
+      "article": "Sleep researchers have found that teenagers who sleep fewer than seven hours a night score lower on memory and attention tests. The study followed 2,000 students over three years. Students who kept regular bedtimes performed better even when total sleep was similar. The authors suggest that schools consider later start times to help students get enough rest.",
+      "summary": "A three-year study found that teenagers who sleep less than seven hours do worse on memory and attention tests, so schools may consider later start times."
+    }
+  ]
+}

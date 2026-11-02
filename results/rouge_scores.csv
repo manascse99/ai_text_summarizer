@@ -1,0 +1,4 @@
+prediction,rouge1,rouge2,rougeL
+solar power capacity has grown rapidly over the past decade as panel prices fell by more than 80 percent. many countries now install more solar capacity each year than any other source of electricity.,0.14545454545454542,0.07547169811320756,0.14545454545454542
+"the city council voted to expand the bus network with five new routes connecting suburban neighbourhoods to the downtown core. the project will cost 40 million dollars and will be paid for partly by a federal transport grant. construction is expected to begin next spring, with the first routes opening within",0.45070422535211263,0.20289855072463772,0.36619718309859156
+"study followed 2,000 students over three years. students who kept regular bedtimes performed better even when total sleep was similar.",0.20833333333333334,0.043478260869565216,0.16666666666666666

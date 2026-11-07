@@ -13,6 +13,10 @@ ai-text-summarizer/
 ├── src/summarizer.py           # load model, summarize(text)
 ├── src/evaluate.py             # ROUGE evaluation on the samples
 ├── results/                    # rouge_scores.csv is written here
+├── example.md                  # sample paragraphs for manual testing
+├── flowchart.md                # comprehensive architecture and flowcharts
+├── ppt.md                      # presentation slides blueprint
+├── viva.md                     # viva defense guide
 ├── requirements.txt
 └── README.md
 ```
